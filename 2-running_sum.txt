@@ -1,0 +1,5 @@
+Read X
+Set Sum to 0
+While X (X<=0)
+      Set sum to X+Sum
+Read X 

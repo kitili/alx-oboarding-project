@@ -1,0 +1,6 @@
+// FOR LOOP 
+// Let N = 0
+// For each 3 digits in a sequence
+	// Set N = N+3
+// IF sum is greater than 3 repeat previous step
+// Print Sum 

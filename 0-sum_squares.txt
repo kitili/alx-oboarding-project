@@ -1,0 +1,9 @@
+Read N 
+Let INPUT = 0, sum = 0
+Read Num
+INPUT = INPUT + 1
+Sqr (Num * Num)
+Sum = Sum * Sqr
+	IF input <N repeat step 3 and 6
+Print Sum
+End. 
